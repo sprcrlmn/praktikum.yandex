@@ -1,1 +1,3 @@
-Пraktikum.yandex
+
+practicum.yandex
+Data Science Projects
